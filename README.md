@@ -66,3 +66,10 @@ streamlit run app.py
 ├── README.md                   # Project overview
 └── requirements.txt            # Python dependencies
 
+🛠️ Technologies Used
+Python 🐍
+TensorFlow 🔥
+OpenCV 📷
+Streamlit 🌐
+✨ Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
