@@ -20,9 +20,8 @@ Welcome to the **Human Action Recognition System**! This application leverages d
 
 ## 📸 Demo
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxPvC1paAXu1u8/giphy.gif" width="800" />
-</p>
+![{1E83FBE8-CC9D-464E-91CD-ABF777AA60DC}](https://github.com/user-attachments/assets/c3dac0a8-97e9-427a-8d85-9b3819af6311)
+
 
 ---
 
