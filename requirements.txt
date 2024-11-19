@@ -4,3 +4,6 @@ numpy
 opencv-python
 streamlit
 requests
+pandas
+opencv-python-headless
+Pillow
