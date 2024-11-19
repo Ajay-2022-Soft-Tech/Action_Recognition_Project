@@ -38,4 +38,8 @@ Welcome to the **Human Action Recognition System**! This application leverages d
 ---
 
 ## 📂 Folder Structure
+project/ ├── app.py # Flask backend ├── streamlit_app.py # Streamlit frontend ├── model/ │ └── model.h5 # Pre-trained model ├── uploads/ # Folder to store uploaded images └── requirements.txt # Project dependencies
+
+yaml
+Copy code
 
