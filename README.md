@@ -33,7 +33,7 @@ Welcome to the **Human Action Recognition System**! This application leverages d
 - **Backend**: Flask
 - **Deep Learning Framework**: TensorFlow/Keras
 - **Programming Language**: Python
-- **Deployment**: Localhost, AWS, or any cloud platform
+- **Deployment**: Localhost, Streamlit
 
 ---
 
