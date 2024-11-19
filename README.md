@@ -38,8 +38,36 @@ Welcome to the **Human Action Recognition System**! This application leverages d
 ---
 
 ## 📂 Folder Structure
-project/ ├── app.py # Flask backend ├── streamlit_app.py # Streamlit frontend ├── model/ │ └── model.h5 # Pre-trained model ├── uploads/ # Folder to store uploaded images └── requirements.txt # Project dependencies
+project/
+├── model/
+│   └──human_activity_recognition.h5
+├── uploads/
+├── streamlit_app.py
+└── requirements.txt
 
-yaml
-Copy code
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.8+
+- Pip (Python package installer)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/human-action-recognition.git
+   cd human-action-recognition
+   
+  ```bash
+  pip install -r requirements.txt
+
+```bash
+  streamlit run streamlit_app.py
+
+
 
